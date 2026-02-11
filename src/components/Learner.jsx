@@ -1,5 +1,5 @@
 
-import Score from "./Score";
+import Score from "./Score.jsx";
 
 export default function Learner({ l }) {
 
